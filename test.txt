@@ -1,35 +1,3 @@
-master init
-
-
-
-
-branch1 21:00
-
-branch2 22:00
-
-
-
-branch1 23:00
-
-
-
-
-
-branch3 1
-
-
-
-
-
-
-
-
-
-branch4 2
-
-
-
-
-
-branch3 3
-
+test1
+test2
+test3
